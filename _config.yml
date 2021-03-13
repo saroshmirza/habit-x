@@ -7,27 +7,27 @@ title: Mobile App Landing Page Template
 email: contact@sandoche.com
 description: Free to use static landing page template to showcase your mobile app
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://mobileapplandingpage.learn.uno" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://habitx.netlify.app/" # the base hostname & protocol for your site, e.g. http://example.com
 theme_color: '#efeeff'
-twitter_username: sandochee
-github_username:  sandoche
-author: Sandoche Adittane
+#twitter_username: sandochee
+#github_username:  sandoche
+#author: Sandoche Adittane
 logo: assets/images/large-logo.png
-twitter:
-  username: sandochee
-social:
-  name: Sandoche Adittane
-  links:
-    - https://twitter.com/sandochee
-    - https://www.facebook.com/sandoche
-    - https://www.linkedin.com/in/sandoche
-    - https://plus.google.com/+SandocheADITTANE
-    - https://github.com/sandoche
+#twitter:
+#  username: sandochee
+#social:
+#  name: Sandoche Adittane
+#  links:
+#    - https://twitter.com/sandochee
+#    - https://www.facebook.com/sandoche
+#    - https://www.linkedin.com/in/sandoche
+#    - https://plus.google.com/+SandocheADITTANE
+#    - https://github.com/sandoche
 
 languages: ["en"]
 ampdir: amp
 
-github: https://github.com/sandoche/Mobile-app-landingpage-template
+github: https://github.com/saroshmirza/habit-x
 
 ### Google webmaster tools, Google Analytics, Doorbell and Cookie consent uncomment and put the API key
 #webmaster_verifications:
