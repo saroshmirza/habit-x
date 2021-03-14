@@ -13,4 +13,4 @@ const tobi = new Tobi()
 // function addDarkmodeWidget() {
 //   new Darkmode().showWidget()
 // }
-window.addEventListener('load', addDarkmodeWidget)
+// window.addEventListener('load', addDarkmodeWidget)
